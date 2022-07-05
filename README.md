@@ -1,5 +1,8 @@
 # Data-Science-Professional-Portfolio
-This is a directory of all my data science and analytics projects
+This is a directory of all my data science and analytics projects.
+
+I also, maintain a blog that contains short-form articles I write about things I find interesting along my learning journey. 
+Please see my blog here: 
 
 Each of the projects listed below was done for volunteering for the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or through DataQuest Data Science learning path. 
 
