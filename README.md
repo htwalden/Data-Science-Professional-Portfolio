@@ -1,23 +1,28 @@
 # Data-Science-Professional-Portfolio
 This is a directory of all my data science and analytics projects.
 
-I also, maintain a blog that contains short-form articles I write about things I find interesting along my learning journey. 
+I also maintain a blog that contains short-form articles I write about things I find interesting along my learning journey. 
 Please see my blog here: 
 
-Each of the projects listed below was done for volunteering for the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or through DataQuest Data Science learning path. 
+Each of the projects listed below was done for volunteering at the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or through DataQuest Data Science learning path. 
 
 The skills found in these projects include: Python, Pandas, Numpy, Geopandas, Geoanalytics, Machine Learning, Scikit Learn, NLTK, Predictive Analytics, SQL, noSQL. 
 
-I am constantly learning and growing my foundation in analytics skills and tool sets. 
+I am constantly learning and growing my foundation in analytics engineering skills and tool sets. 
 
-## Machine Learning Projects: 
-
-## Dashboard Projects:
+## Flagship Project: the most complete and well rounded display of technical skills are contained in this project. 
 ### 1. Link2Feed project for the Food Bank of Central and Eastern North Carolina
   - Purpose: To determine Link2Feed system service gaps.
   - Method: python / Dash / Plotly / Folium / Pandas / geoPandas / Heroku
   - Repository: [Link2Feed Dashboard Repo](https://github.com/htwalden/Food-Bank-CENC-Link2Feed) 
   - Dashboard Website: [Link2Feed Dashboard]{https://fbcencl2f.herokuapp.com}
+
+## Machine Learning Projects: 
+### 1. Predicting Winning and Losing Tennis Players with Classification Algos
+  - Purpose: To determine if a player was a inner or a loser of a professional tennis match based on certain statistical match features. 
+  - Method: python / scikit learn / pandas / numpy / matplotlib 
+  - Project Repo: [Predicting Tennis Match Winners/Losers](https://github.com/htwalden/TennisProj)
+  
 ## Analytics Projects:
 ### 1. Google/Apple App Store Project: 
   - Purpose: Compare data between the Google Play and Apple App stores to make a recommendation regarding the best genre in which to create a new 'free' app.
