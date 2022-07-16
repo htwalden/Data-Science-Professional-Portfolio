@@ -10,18 +10,20 @@ The skills found in these projects include: Python, Pandas, Numpy, Geopandas, Ge
 
 I am constantly learning and growing my foundation in analytics engineering skills and tool sets. 
 
-## Flagship Project: the most complete and well rounded display of technical skills are contained in this project. 
+## Flagship Project: 
 ### 1. Link2Feed project for the Food Bank of Central and Eastern North Carolina
   - Purpose: To determine Link2Feed system service gaps.
   - Method: python / Dash / Plotly / Folium / Pandas / geoPandas / Heroku
   - Repository: [Link2Feed Dashboard Repo](https://github.com/htwalden/Food-Bank-CENC-Link2Feed) 
   - Dashboard Website: [Link2Feed Dashboard](https://fbcencl2f.herokuapp.com)
 
+
 ## Machine Learning Projects: 
 ### 1. Predicting Winning and Losing Tennis Players with Classification Algos
   - Purpose: To determine if a player was a inner or a loser of a professional tennis match based on certain statistical match features. 
   - Method: python / scikit learn / pandas / numpy / matplotlib 
   - Project Repo: [Predicting Tennis Match Winners/Losers](https://github.com/htwalden/TennisProj)
+  
   
 ## Analytics Projects:
 ### 1. Google/Apple App Store Project: 
@@ -40,6 +42,7 @@ I am constantly learning and growing my foundation in analytics engineering skil
   - Purpose: Determine what the greatest contributor to traffic volume is on the I-94 westbound lanes in St. Paul, MN, and make a recommendation on when the best travel times are. 
   - Method: Jupyter Notebook / python / pandas / matplotlib / seaborn
   - Notebook: [Interstate Traffic Project](https://github.com/htwalden/Data-Science-Project-Repository/blob/main/interstate_data_project.ipynb)
+
 
 ## Custom Geolocator Tools:
   ### 1. Google API geolocator:
