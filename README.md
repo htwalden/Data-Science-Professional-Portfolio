@@ -15,7 +15,7 @@ I am constantly learning and growing my foundation in analytics engineering skil
   - Purpose: To determine Link2Feed system service gaps.
   - Method: python / Dash / Plotly / Folium / Pandas / geoPandas / Heroku
   - Repository: [Link2Feed Dashboard Repo](https://github.com/htwalden/Food-Bank-CENC-Link2Feed) 
-  - Dashboard Website: [Link2Feed Dashboard]{https://fbcencl2f.herokuapp.com}
+  - Dashboard Website: [Link2Feed Dashboard](https://fbcencl2f.herokuapp.com)
 
 ## Machine Learning Projects: 
 ### 1. Predicting Winning and Losing Tennis Players with Classification Algos
