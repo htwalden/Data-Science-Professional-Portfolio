@@ -1,14 +1,11 @@
-# Data-Science-Professional-Portfolio
-This is a directory of all my data science and analytics projects.
+# Technical-Portfolio
+This is a directory of all my programming and data analytics projects.
 
-I also maintain a blog that contains short-form articles I write about things I find interesting along my learning journey. 
-Please see my blog here: 
+Each of the projects listed below was done for volunteering at the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or from curiosity and the desire to help others. 
 
-Each of the projects listed below was done for volunteering at the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or through DataQuest Data Science learning path. 
+The tools used to create these projects include: Python, Git, SQL, noSQL, Pandas, Numpy, Geopandas, Geoanalytics, Machine Learning, Scikit Learn. 
 
-The skills found in these projects include: Python, Pandas, Numpy, Geopandas, Geoanalytics, Machine Learning, Scikit Learn, NLTK, Predictive Analytics, SQL, noSQL. 
-
-I am constantly learning and growing my foundation in analytics engineering skills and tool sets. 
+I am constantly learning and growing my foundation in programming and data engineering tool sets. 
 
 ## Flagship Project: 
 ### 1. Link2Feed project for the Food Bank of Central and Eastern North Carolina
