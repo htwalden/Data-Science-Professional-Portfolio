@@ -7,6 +7,7 @@ The tools used to create these projects include: Python, Git, SQL, noSQL, Pandas
 
 I am constantly learning and growing my foundation in programming and data engineering tool sets. 
 
+
 ## Flagship Project: 
 ### 1. Link2Feed project for the Food Bank of Central and Eastern North Carolina
   - Purpose: To determine Link2Feed system service gaps.
