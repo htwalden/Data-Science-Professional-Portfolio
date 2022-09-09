@@ -15,6 +15,13 @@ I am constantly learning and growing my foundation in programming and data engin
   - Dashboard Website: [Link2Feed Dashboard](https://fbcencl2f.herokuapp.com)
 
 
+## CLI Tool:
+### 1. Inventory Reconciliation Program
+  - Purpose: This project is a program that intakes serial numbers, validates them, and accounts for them. A report is generated at completion, and there is an option to save and continue progress from previous work. Enabled a co-worked to reduct inventory reconciliation time from 3 days to 6 hours. 
+  - Method: python
+  - Project Repo: [Inventory Program](https://github.com/htwalden/inventory_program)
+
+
 ## Machine Learning Projects: 
 ### 1. Predicting Winning and Losing Tennis Players with Classification Algos
   - Purpose: To determine if a player was a inner or a loser of a professional tennis match based on certain statistical match features. 
