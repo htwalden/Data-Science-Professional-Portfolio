@@ -1,11 +1,11 @@
 # Technical-Portfolio
 This is a directory of all my programming and data analytics projects.
 
-Each of the projects listed below was done for volunteering at the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or from curiosity and the desire to help others. 
+Each of the projects listed below was done for volunteering at the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or from curiosity. 
 
-The tools used to create these projects include: Python, Git, SQL, noSQL, Pandas, Numpy, Geopandas, Geoanalytics, Machine Learning, Scikit Learn. 
+The tools used to create these projects include: Python, Dash by Plotly, Git, SQL, noSQL, Pandas, Numpy, Geopandas, MatplotLib, Machine Learning, Scikit Learn, and many more. 
 
-I am constantly learning and growing my foundation in programming and data engineering tool sets. 
+I am always learning and growing my foundation in programming and data engineering tool sets. 
 
 
 ## Flagship Project: 
