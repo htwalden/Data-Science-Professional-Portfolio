@@ -1,4 +1,4 @@
-# Technical-PortfoliO
+# Technical-Portfolio
 Welcome to the directory of all my programming and data analytics projects.
 
 Each of the projects listed below was done for volunteering at the Food Bank of Central and Eastern North Carolina, part of my MS Data Analytics Engineering curriculum at George Mason University, or from curiosity. 
